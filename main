@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Agricultura de Precisión </title>
+  </head>
+  <body>
+    <h1> Bienvenido a Agricultura de Precisión </h1>
+    <p> Aquí encontrarás información sobre las últimas tendencias y tecnologías en agricultura de precisión. </p>
+
+    <h2> Sensores de Suelo </h2>
+    <p> Los sensores de suelo son una tecnología clave en la agricultura de precisión. Aquí puedes encontrar información sobre los diferentes tipos de sensores, cómo funcionan y cómo pueden ayudar a los agricultores a mejorar la gestión de los cultivos. </p>
+
+    <h2> Drones </h2>
+    <p> Los drones son cada vez más populares en la agricultura, ya que permiten a los agricultores recopilar datos precisos y en tiempo real sobre sus cultivos. Aquí puedes encontrar información sobre los diferentes tipos de drones, cómo funcionan y cómo se pueden utilizar en la agricultura. </p>
+
+    <h2> Sistemas de Riego Inteligentes </h2>
+    <p> Los sistemas de riego inteligentes pueden ayudar a los agricultores a ahorrar agua y mejorar la eficiencia de sus cultivos. Aquí puedes encontrar información sobre los diferentes tipos de sistemas de riego inteligentes, cómo funcionan y cómo se pueden utilizar en la agricultura. </p>
+
+    <h2> Mapas Climáticos </h2>
+    <p> Los mapas climáticos pueden ayudar a los agricultores a planificar sus cultivos y mejorar la gestión del agua. Aquí puedes encontrar información sobre los diferentes tipos de mapas climáticos, cómo se crean y cómo se pueden utilizar en la agricultura. </p>
+
+    <h2> Variedades de Cultivos </h2>
+    <p> Cada región tiene diferentes variedades de cultivos que se adaptan mejor a las condiciones locales. Aquí puedes encontrar información sobre las diferentes variedades de cultivos, su rendimiento y cómo seleccionar la variedad adecuada para tu región. </p>
+
+    <h2> Proyecto de Código Abierto </h2>
+    <p> Estamos trabajando en un proyecto de código abierto que permitirá a los agricultores recopilar y compartir información sobre el uso del suelo y los cultivos en su región. Si estás interesado en colaborar con nosotros, ¡no dudes en contactarnos! </p>
+
+    <h2> Plataforma de Compra Local </h2>
+    <p> Creemos en la agricultura sostenible y de cercanía. Estamos trabajando en una plataforma que conectará a los agricultores con los compradores locales de productos agrícolas. Si estás interesado en formar parte de nuestra plataforma, ¡no dudes en contactarnos! </p>
+  </body>
+</html>
